@@ -1,9 +1,3 @@
-# ubuntu-backlight
-just like https://github.com/WestleyK/rpi-backlight, but for ubuntu
-
-
-
-
 # Simple backlight adjust and low power mode (display sleep)
 
 Designed and tested for ubuntu 16.04 Desktop. 
