@@ -1,6 +1,6 @@
 # Simple backlight adjust and low power mode (display sleep)
 
-Designed and tested for ubuntu 16.04 Desktop. 
+Designed and tested for Ubuntu 16.04 Desktop. 
 
 <br>
 <br>
