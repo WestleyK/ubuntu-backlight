@@ -6,12 +6,12 @@ Designed and tested for Ubuntu 16.04 Desktop.
 <br>
 
 
-## Install, Update and Uninstall:
+## Install, Update, and Uninstall:
 
 
 ### Install the binary:
 
-Paste this in your terminal:
+Copy-paste this in your terminal:
 ```
 curl https://raw.githubusercontent.com/WestleyK/ubuntu-backlight/master/easy-install.sh | sh
 ```
@@ -24,14 +24,14 @@ sudo mv ubuntu-backlight /usr/local/bin/
 
 <br>
 
-### Why install the pre-compiled code:
+### Should you install the pre-compiled code?
 
-**Why to install pre-compiled code:**
- - No dependency needed to install, (not that there is any).
+**Why to install the pre-compiled code:**
+ - No dependency needed to install.
  - You don't need golang to compile the source code.
 
-**Why not to install pre-compiled code:**
- - May not be fully compatible, (could only be partially compatible)
+**Why not to install the pre-compiled code:**
+ - It may not be fully compatible (i.e., it could be only partially compatible).
 <br>
 
 <br>
