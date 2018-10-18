@@ -9,7 +9,7 @@
 #
 
 URL="https://github.com/WestleyK/ubuntu-backlight/raw/master/pre-compiled/ubuntu-x86_64/ubuntu-backlight"
-SCRIPT_NAME="ubuntu-backligt"
+SCRIPT_NAME="ubuntu-backlight"
 
 wget $URL
 chmod +x $SCRIPT_NAME
