@@ -2,9 +2,9 @@
 #
 # Created by: Westley K
 # email: westley@sylabs.io
-# Date: Sep 10, 2018
+# Date: Oct 17, 2018
 # https://github.com/WestleyK/ubuntu-backlight
-# Version-1.0.0
+# Version-1.0.1
 #
 # Designed and tested for ubuntu 16.0.4 desktop.
 #
@@ -33,7 +33,7 @@
 #
 
 FILE_INFO="ubuntu_backlight_info.go"
-DATE=` date `
+DATE=` date "+%B %d, %Y, %I:%M:%S %p" `
 WHO=` whoami `
 ON=` hostname `
 WHERE=` pwd `
